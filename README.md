@@ -25,3 +25,6 @@ desordenada del texto. Así podía darle una alineación a cada parte.
 * En la lista desordenada e puesto 3 dirección de interés sobre el grupo de música.
 
 * Para finalizar puse el copyright en una letra mas pequeña.
+
+La validación de rawgit esta en este enlace:
+https://rawgit.com/dmunozbarras/Dover/master/index.html
